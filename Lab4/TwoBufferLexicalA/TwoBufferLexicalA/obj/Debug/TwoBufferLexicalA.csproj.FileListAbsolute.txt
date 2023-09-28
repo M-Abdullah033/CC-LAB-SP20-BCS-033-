@@ -1,0 +1,9 @@
+F:\Studies\BCS-7\Extra\CC-Lab Task\Lab4\TwoBufferLexicalA\TwoBufferLexicalA\bin\Debug\TwoBufferLexicalA.exe.config
+F:\Studies\BCS-7\Extra\CC-Lab Task\Lab4\TwoBufferLexicalA\TwoBufferLexicalA\bin\Debug\TwoBufferLexicalA.exe
+F:\Studies\BCS-7\Extra\CC-Lab Task\Lab4\TwoBufferLexicalA\TwoBufferLexicalA\bin\Debug\TwoBufferLexicalA.pdb
+F:\Studies\BCS-7\Extra\CC-Lab Task\Lab4\TwoBufferLexicalA\TwoBufferLexicalA\obj\Debug\TwoBufferLexicalA.csprojResolveAssemblyReference.cache
+F:\Studies\BCS-7\Extra\CC-Lab Task\Lab4\TwoBufferLexicalA\TwoBufferLexicalA\obj\Debug\TwoBufferLexicalA.Form1.resources
+F:\Studies\BCS-7\Extra\CC-Lab Task\Lab4\TwoBufferLexicalA\TwoBufferLexicalA\obj\Debug\TwoBufferLexicalA.Properties.Resources.resources
+F:\Studies\BCS-7\Extra\CC-Lab Task\Lab4\TwoBufferLexicalA\TwoBufferLexicalA\obj\Debug\TwoBufferLexicalA.csproj.GenerateResource.Cache
+F:\Studies\BCS-7\Extra\CC-Lab Task\Lab4\TwoBufferLexicalA\TwoBufferLexicalA\obj\Debug\TwoBufferLexicalA.exe
+F:\Studies\BCS-7\Extra\CC-Lab Task\Lab4\TwoBufferLexicalA\TwoBufferLexicalA\obj\Debug\TwoBufferLexicalA.pdb
