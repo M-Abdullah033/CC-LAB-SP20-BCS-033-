@@ -1,0 +1,9 @@
+F:\Studies\BCS-7\Extra\CC-Lab Task\Lab6\JavaLang\JavaLang\bin\Debug\JavaLang.exe.config
+F:\Studies\BCS-7\Extra\CC-Lab Task\Lab6\JavaLang\JavaLang\bin\Debug\JavaLang.exe
+F:\Studies\BCS-7\Extra\CC-Lab Task\Lab6\JavaLang\JavaLang\bin\Debug\JavaLang.pdb
+F:\Studies\BCS-7\Extra\CC-Lab Task\Lab6\JavaLang\JavaLang\obj\Debug\JavaLang.csprojResolveAssemblyReference.cache
+F:\Studies\BCS-7\Extra\CC-Lab Task\Lab6\JavaLang\JavaLang\obj\Debug\JavaLang.Form1.resources
+F:\Studies\BCS-7\Extra\CC-Lab Task\Lab6\JavaLang\JavaLang\obj\Debug\JavaLang.Properties.Resources.resources
+F:\Studies\BCS-7\Extra\CC-Lab Task\Lab6\JavaLang\JavaLang\obj\Debug\JavaLang.csproj.GenerateResource.Cache
+F:\Studies\BCS-7\Extra\CC-Lab Task\Lab6\JavaLang\JavaLang\obj\Debug\JavaLang.exe
+F:\Studies\BCS-7\Extra\CC-Lab Task\Lab6\JavaLang\JavaLang\obj\Debug\JavaLang.pdb
