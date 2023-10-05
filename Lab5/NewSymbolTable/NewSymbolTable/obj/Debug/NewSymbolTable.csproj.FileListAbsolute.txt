@@ -1,0 +1,9 @@
+F:\Studies\BCS-7\Extra\CC-Lab Task\Lab5\NewSymbolTable\NewSymbolTable\bin\Debug\NewSymbolTable.exe.config
+F:\Studies\BCS-7\Extra\CC-Lab Task\Lab5\NewSymbolTable\NewSymbolTable\obj\Debug\NewSymbolTable.csprojResolveAssemblyReference.cache
+F:\Studies\BCS-7\Extra\CC-Lab Task\Lab5\NewSymbolTable\NewSymbolTable\obj\Debug\NewSymbolTable.Form1.resources
+F:\Studies\BCS-7\Extra\CC-Lab Task\Lab5\NewSymbolTable\NewSymbolTable\obj\Debug\NewSymbolTable.Properties.Resources.resources
+F:\Studies\BCS-7\Extra\CC-Lab Task\Lab5\NewSymbolTable\NewSymbolTable\obj\Debug\NewSymbolTable.csproj.GenerateResource.Cache
+F:\Studies\BCS-7\Extra\CC-Lab Task\Lab5\NewSymbolTable\NewSymbolTable\bin\Debug\NewSymbolTable.exe
+F:\Studies\BCS-7\Extra\CC-Lab Task\Lab5\NewSymbolTable\NewSymbolTable\bin\Debug\NewSymbolTable.pdb
+F:\Studies\BCS-7\Extra\CC-Lab Task\Lab5\NewSymbolTable\NewSymbolTable\obj\Debug\NewSymbolTable.exe
+F:\Studies\BCS-7\Extra\CC-Lab Task\Lab5\NewSymbolTable\NewSymbolTable\obj\Debug\NewSymbolTable.pdb
