@@ -1,0 +1,2 @@
+C:\Users\muaaz\Documents\Visual Studio 2013\Projects\Lab_10\Lab_10\bin\Debug\Lab_10.exe.config
+C:\Users\muaaz\Desktop\compiler-construction-lab\Lab_10\Lab_10\bin\Debug\Lab_10.exe.config
