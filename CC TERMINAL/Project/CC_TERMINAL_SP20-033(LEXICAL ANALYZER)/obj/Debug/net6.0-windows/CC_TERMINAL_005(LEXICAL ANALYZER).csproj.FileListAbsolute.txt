@@ -1,0 +1,17 @@
+C:\Users\Junaid Computers\source\repos\CC_TERMINAL_005(LEXICAL ANALYZER)\bin\Debug\net6.0-windows\CC_TERMINAL_005(LEXICAL ANALYZER).exe
+C:\Users\Junaid Computers\source\repos\CC_TERMINAL_005(LEXICAL ANALYZER)\bin\Debug\net6.0-windows\CC_TERMINAL_005(LEXICAL ANALYZER).deps.json
+C:\Users\Junaid Computers\source\repos\CC_TERMINAL_005(LEXICAL ANALYZER)\bin\Debug\net6.0-windows\CC_TERMINAL_005(LEXICAL ANALYZER).runtimeconfig.json
+C:\Users\Junaid Computers\source\repos\CC_TERMINAL_005(LEXICAL ANALYZER)\bin\Debug\net6.0-windows\CC_TERMINAL_005(LEXICAL ANALYZER).dll
+C:\Users\Junaid Computers\source\repos\CC_TERMINAL_005(LEXICAL ANALYZER)\bin\Debug\net6.0-windows\CC_TERMINAL_005(LEXICAL ANALYZER).pdb
+C:\Users\Junaid Computers\source\repos\CC_TERMINAL_005(LEXICAL ANALYZER)\obj\Debug\net6.0-windows\CC_TERMINAL_005_LEXICAL_ANALYZER_.Form1.resources
+C:\Users\Junaid Computers\source\repos\CC_TERMINAL_005(LEXICAL ANALYZER)\obj\Debug\net6.0-windows\CC_TERMINAL_005(LEXICAL ANALYZER).csproj.GenerateResource.cache
+C:\Users\Junaid Computers\source\repos\CC_TERMINAL_005(LEXICAL ANALYZER)\obj\Debug\net6.0-windows\CC_TERMINAL_005(LEXICAL ANALYZER).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Junaid Computers\source\repos\CC_TERMINAL_005(LEXICAL ANALYZER)\obj\Debug\net6.0-windows\CC_TERMINAL_005(LEXICAL ANALYZER).AssemblyInfoInputs.cache
+C:\Users\Junaid Computers\source\repos\CC_TERMINAL_005(LEXICAL ANALYZER)\obj\Debug\net6.0-windows\CC_TERMINAL_005(LEXICAL ANALYZER).AssemblyInfo.cs
+C:\Users\Junaid Computers\source\repos\CC_TERMINAL_005(LEXICAL ANALYZER)\obj\Debug\net6.0-windows\CC_TERMINAL_005(LEXICAL ANALYZER).csproj.CoreCompileInputs.cache
+C:\Users\Junaid Computers\source\repos\CC_TERMINAL_005(LEXICAL ANALYZER)\obj\Debug\net6.0-windows\CC_TERMINAL_005(LEXICAL ANALYZER).dll
+C:\Users\Junaid Computers\source\repos\CC_TERMINAL_005(LEXICAL ANALYZER)\obj\Debug\net6.0-windows\refint\CC_TERMINAL_005(LEXICAL ANALYZER).dll
+C:\Users\Junaid Computers\source\repos\CC_TERMINAL_005(LEXICAL ANALYZER)\obj\Debug\net6.0-windows\CC_TERMINAL_005(LEXICAL ANALYZER).pdb
+C:\Users\Junaid Computers\source\repos\CC_TERMINAL_005(LEXICAL ANALYZER)\obj\Debug\net6.0-windows\CC_TERMINAL_005(LEXICAL ANALYZER).genruntimeconfig.cache
+C:\Users\Junaid Computers\source\repos\CC_TERMINAL_005(LEXICAL ANALYZER)\obj\Debug\net6.0-windows\ref\CC_TERMINAL_005(LEXICAL ANALYZER).dll
+C:\Users\Junaid Computers\source\repos\CC_TERMINAL_005(LEXICAL ANALYZER)\obj\Debug\net6.0-windows\CC_TERMINAL_005_LEXICAL_ANALYZER_.Properties.Resources.resources

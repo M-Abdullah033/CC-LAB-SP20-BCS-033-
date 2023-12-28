@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CC_TERMINAL_005(LEXICAL ANALYZER)/1.0.0": {
+        "runtime": {
+          "CC_TERMINAL_005(LEXICAL ANALYZER).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CC_TERMINAL_005(LEXICAL ANALYZER)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
